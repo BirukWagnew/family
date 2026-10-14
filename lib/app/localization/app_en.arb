@@ -1,0 +1,15 @@
+{
+  "@@locale": "en",
+  "appTitle": "Family",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "loginScreenTitle": "Welcome Back",
+  "@loginScreenTitle": {
+    "description": "Title on the login screen"
+  },
+  "buildYourFamilyPrompt": "Build Your Family",
+  "@buildYourFamilyPrompt": {
+    "description": "Prompt for users with zero family members"
+  }
+}
