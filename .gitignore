@@ -98,3 +98,8 @@ symbols/
 
 # Web related
 lib/generated_plugin_registrant.dart
+
+# Firebase & Credentials
+**/google-services.json
+**/GoogleService-Info.plist
+
